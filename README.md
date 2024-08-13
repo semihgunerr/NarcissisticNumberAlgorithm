@@ -1,8 +1,10 @@
 NarcissisticNumber
-Bu Java programı, verilen bir sayının narsistik (narcissistic) bir sayı olup olmadığını kontrol eder. Bir sayı, her bir basamağının kendi basamak sayısının üssü alınarak elde edilen sayıların toplamına eşitse narsistik sayıdır.
+
+*Bu Java programı, verilen bir sayının narsistik (narcissistic) bir sayı olup olmadığını kontrol eder. Bir sayı, her bir basamağının kendi basamak sayısının üssü alınarak elde edilen sayıların toplamına eşitse narsistik sayıdır.
 
 Kullanım
-Program, kullanıcıdan bir sayı girmesini ister ve girilen sayının narsistik bir sayı olup olmadığını kontrol eder. Sonuç olarak, sayı narsistik ise bu durum belirtilir; değilse, sayının narsistik olmadığı belirtilir.
+
+*Program, kullanıcıdan bir sayı girmesini ister ve girilen sayının narsistik bir sayı olup olmadığını kontrol eder. Sonuç olarak, sayı narsistik ise bu durum belirtilir; değilse, sayının narsistik olmadığı belirtilir.
 
 Kod Açıklaması
 
